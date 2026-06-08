@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnstableMafia.playserver.pro",
+    "ip": "UnstableMafiaSMP.playserver.pro",
     "port": 46290,
     "version": "1.21.1"
   },
